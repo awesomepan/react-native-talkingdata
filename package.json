@@ -1,5 +1,5 @@
 {
-  "name": "@cross2d/react-native-talkingdata",
+  "name": "react-native-talkingdata",
   "version": "2.0.1",
   "description": "React Native TalkingData",
   "main": "index.js",
